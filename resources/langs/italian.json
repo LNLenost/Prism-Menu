@@ -1,12 +1,12 @@
 [
     {
         "§ Global": {
-            "name": "§ Global"
+            "name": "§ Globali"
         }
     },
     {
         "¬ Player": {
-            "name": "¬ Player"
+            "name": "¬ Giocatore"
         }
     },
     {
@@ -16,7 +16,7 @@
     },
     {
         "« Creator": {
-            "name": "« Creator"
+            "name": "« Creatore"
         }
     },
     {
@@ -26,18 +26,18 @@
     },
     {
         "··· Misc": {
-            "name": "··· Misc"
+            "name": "··· Altro"
         }
     },
     {
         "¶ Settings": {
-            "name": "¶ Settings"
+            "name": "¶ Impostazioni"
         }
     },
 
     {
         "Prism Menu by Firee": {
-            "name": "Prism Menu by Firee"
+            "name": "Prism Menu di Firee"
         }
     },
 
@@ -45,32 +45,32 @@
 
     {
         "Anticheat Bypass": {
-            "name": "Anticheat Bypass",
-            "desc": "Disables all anticheats. [Levels, Editor, etc]"
+            "name": "Disabilita anticheat",
+            "desc": "Disabilita tutti gli anticheat. [Livelli, Editor, ecc]"
         }
     },
     {
         "Practice Music": {
-            "name": "Practice Music",
-            "desc": "Enables Practice Music even if it's locked."
+            "name": "Musica in pratica",
+            "desc": "Sblocca la musica in pratica, anche se è bloccata."
         }
     },
     {
         "Safe Mode": {
-            "name": "Safe Mode",
-            "desc": "Pauses any progress from being done on the level."
+            "name": "Modalità sicura",
+            "desc": "Impedisce di salvare i progressi fatti sui livelli."
         }
     },
     {
         "Accurate Percentage": {
-            "name": "Accurate Percentage",
-            "desc": "Allows for decimals in the level percentage. [Beyond thousandths place]"
+            "name": "Percentuale accurata",
+            "desc": "Permette i decimali nella percentuale del livello. [Oltre le migliaia]"
         }
     },
     {
         "Layout Mode": {
-            "name": "Layout Mode",
-            "desc": "Removes all decoration associated with a level."
+            "name": "Modalità Layout",
+            "desc": "Rimuove tutte le decorazioni in un livello."
         }
     },
     {
