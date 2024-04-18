@@ -75,32 +75,32 @@
     },
     {
         "No Transition": {
-            "name": "No Transition",
-            "desc": "Shorterns scene transition time to 0s."
+            "name": "No Transizioni",
+            "desc": "Rende ogni transizione istantanea."
         }
     },
     {
         "Cheat Indicator": {
-            "name": "Cheat Indicator",
-            "desc": "Shows an icon to tell whether or not you are using mods that may be considered cheating!"
+            "name": "Indica Cheat",
+            "desc": "Mostra un icona che indica se le hack che usi sono considerate come cheat o no."
         }
     },
     {
         "Speedhack": {
             "name": "Speedhack",
-            "desc": "Changes the speed of the game and audio."
+            "desc": "Aumenta la velocità del gioco e dell'audio."
         }
     },
     {
         "FPS Bypass": {
-            "name": "FPS Bypass",
-            "desc": "Unlocks your FPS to be higher than 60 or your monitor's refresh rate."
+            "name": "Sblocca FPS",
+            "desc": "Rende i tuoi FPS maggiori di 60 o della frequenza di aggiornamento del tuo schermo."
         }
     },
     {
         "Reset Speedhack": {
-            "name": "Reset Speedhack",
-            "desc": "Resets speedhack back to normal."
+            "name": "Resetta Speedhack",
+            "desc": "Rende la velocità del gioco normale."
         }
     },
 
