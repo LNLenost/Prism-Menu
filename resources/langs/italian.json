@@ -107,19 +107,19 @@
     {
         "Noclip": {
             "name": "Noclip",
-            "desc": "Makes the player invincible."
+            "desc": "Rende il giocatore invincibile."
         }
     },
     {
         "No Spikes": {
-            "name": "No Spikes",
-            "desc": "Ignores spike objects."
+            "name": "No Spine",
+            "desc": "Ignora il danno dalle spine."
         }
     },
     {
         "No Hitbox": {
             "name": "No Hitbox",
-            "desc": "Disables all object hitboxes. Special objects are disabled."
+            "desc": "Rimuove le hitbox di tutti gli oggetti. Gli oggetti speciali verranno disabilitati."
         }
     },
     {
