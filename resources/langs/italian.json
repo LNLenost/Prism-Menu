@@ -124,26 +124,26 @@
     },
     {
         "No Solids": {
-            "name": "No Solids",
-            "desc": "Disables most solid hitboxes. Special objects still work."
+            "name": "No Solidi",
+            "desc": "Disabilita la maggior parte degli oggetti solidi. Quelli speciali funzioneranno."
         }
     },
     {
         "Everything Hurts": {
-            "name": "Everything Hurts",
-            "desc": "Owie."
+            "name": "Tutto fa danno",
+            "desc": "Ahia."
         }
     },
     {
         "No Mirror Transition": {
-            "name": "No Mirror Transition",
-            "desc": "Prevents the screen from being flipped upon a mirror portal."
+            "name": "No Transizione Specchio",
+            "desc": "Non fa girare lo schermo una volta attraversato un portale specchio."
         }
     },
     {
         "Instant Mirror Portal": {
-            "name": "Instant Mirror Portal",
-            "desc": "Reverse portal now instantly switches."
+            "name": "Portale Specchio istantaneo",
+            "desc": "Il portale specchio gira lo schermo all'istante."
         }
     },
     {
