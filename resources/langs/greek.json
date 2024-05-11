@@ -1,22 +1,22 @@
 [
     {
         "§ Global": {
-            "name": "§ Global"
+            "name": "§ Γενικά"
         }
     },
     {
         "¬ Player": {
-            "name": "¬ Player"
+            "name": "¬ Παίκτης"
         }
     },
     {
         "ª Bypass": {
-            "name": "ª Bypass"
+            "name": "ª Πρόσβαση"
         }
     },
     {
         "« Creator": {
-            "name": "« Creator"
+            "name": "«Δημιουργός "
         }
     },
     {
@@ -26,18 +26,18 @@
     },
     {
         "··· Misc": {
-            "name": "··· Misc"
+            "name": "··· Άλλα"
         }
     },
     {
         "¶ Settings": {
-            "name": "¶ Settings"
+            "name": "¶ Ρυθμίσεις"
         }
     },
 
     {
         "Prism Menu by Firee": {
-            "name": "Prism Menu by Firee"
+            "name": "Prism Menu από Firee"
         }
     },
 
@@ -45,160 +45,160 @@
 
     {
         "Anticheat Bypass": {
-            "name": "Anticheat Bypass",
-            "desc": "Disables all anticheats. [Levels, Editor, etc]"
+            "name": "Κατάργηση Anti-Cheat",
+            "desc": "Καταργεί όλα τα anticheats. [Επίπεδα, Δημιουργός, κλπ.]"
         }
     },
     {
         "Practice Music": {
-            "name": "Practice Music",
-            "desc": "Enables Practice Music even if it's locked."
+            "name": "Μουσικη Εξάσκησης",
+            "desc": "Ξεκλειδώνει Μουσική Εξάσκησης ακόμα και αν είναι κλειδωμένη."
         }
     },
     {
         "Safe Mode": {
-            "name": "Safe Mode",
-            "desc": "Pauses any progress from being done on the level."
+            "name": "Λειτουργεία Ασφάλειας",
+            "desc": "Σταματάει να γίνεται πρόοδος σε ένα επίπεδο  ."
         }
     },
     {
         "Accurate Percentage": {
-            "name": "Accurate Percentage",
-            "desc": "Allows for decimals in the level percentage. [Beyond thousandths place]"
+            "name": "Ακριβές Ποσοστό",
+            "desc": "Αφήνει να υπάρχουν δεκαδικοί αριθμοί στο ποσοστό ενός επιπέδου. [Beyond thousandths place]"
         }
     },
     {
         "Layout Mode": {
-            "name": "Layout Mode",
-            "desc": "Removes all decoration associated with a level."
+            "name": "Διαγραφή Διακόσμησης",
+            "desc": "Διαγράφει όλη την διακόσμηση από ένα επίπεδο ."
         }
     },
     {
         "No Transition": {
-            "name": "No Transition",
-            "desc": "Shorterns scene transition time to 0s."
+            "name": "Γρήγορη Αλλαγη Σκηνών",
+            "desc": "Αλλάζει την διάρκεια όταν αλλάζει σηκηνή σε 0 δευτερόλεπτα."
         }
     },
     {
         "Cheat Indicator": {
-            "name": "Cheat Indicator",
-            "desc": "Shows an icon to tell whether or not you are using mods that may be considered cheating!"
+            "name": "Δείκτης Κλεψιάς",
+            "desc": "Δείχνει ένα είκονακι για να βλέπεις πότε χρεισημοποιείς τροποποιήσεις που θεωρούνται κλέψιμο. "
         }
     },
     {
         "Speedhack": {
-            "name": "Speedhack",
-            "desc": "Changes the speed of the game and audio."
+            "name": "Αλλαγή ταχύτητας",
+            "desc": "Αλλάζει την ταχύτητα του παιχνιδιού και της μουσικής."
         }
     },
     {
         "FPS Bypass": {
-            "name": "FPS Bypass",
-            "desc": "Unlocks your FPS to be higher than 60 or your monitor's refresh rate."
+            "name": "Ξεκλείδωμα FPS",
+            "desc": "Ξεκλειδώνει το FPS για να είναι μεγαλύτερο από 60."
         }
     },
     {
         "Reset Speedhack": {
-            "name": "Reset Speedhack",
-            "desc": "Resets speedhack back to normal."
+            "name": "Επαναφορά Speedhack",
+            "desc": "Επαναφέρει το speedhack σε νορμάλ ταχύτητα."
         }
     },
 
     {
         "Noclip": {
-            "name": "Noclip",
-            "desc": "Makes the player invincible."
+            "name": "Αήττητος",
+            "desc": "Κάνει τον μαίχτη ανίκητο."
         }
     },
     {
         "No Spikes": {
-            "name": "No Spikes",
-            "desc": "Ignores spike objects."
+            "name": "Οχι Aγκάθια",
+            "desc": "Κάνει τον παίχτη ανίκητο μόνο σε αγγάθια."
         }
     },
     {
         "No Hitbox": {
-            "name": "No Hitbox",
-            "desc": "Disables all object hitboxes. Special objects are disabled."
+            "name": "Οχι Hitbox",
+            "desc": "Καταργεί ολα τα hitbox σε ένα επίπεδο."
         }
     },
     {
         "No Solids": {
-            "name": "No Solids",
-            "desc": "Disables most solid hitboxes. Special objects still work."
+            "name": "Όχι στερεά",
+            "desc": "Καταργεί τα hitbox όλων των στερεών αντικειμένων."
         }
     },
     {
         "Everything Hurts": {
-            "name": "Everything Hurts",
-            "desc": "Owie."
+            "name": "Τα πάντα πονάνε",
+            "desc": "Αουτς."
         }
     },
     {
         "No Mirror Transition": {
-            "name": "No Mirror Transition",
-            "desc": "Prevents the screen from being flipped upon a mirror portal."
+            "name": "Οχι καθρέυτης",
+            "desc": "Σταματάει την οθόνη από το να καθρευτίζεται σε ένα πόρταλ καθρεύτη."
         }
     },
     {
         "Instant Mirror Portal": {
-            "name": "Instant Mirror Portal",
-            "desc": "Reverse portal now instantly switches."
+            "name": "Άμεσoς καθρευτισμός",
+            "desc": "Ο καθρευτισμός σε ένα πόρταλ καθρεύτη τώρα γίνεται αμέσως."
         }
     },
     {
         "Freeze Player": {
-            "name": "Freeze Player",
-            "desc": "Freezes player movement."
+            "name": "Παγωμένος παίχτης",
+            "desc": "Παγώνει τον παίχτη."
         }
     },
     {
         "Jump Hack": {
-            "name": "Jump Hack",
+            "name": "Άπειρα πηδήματα",
             "desc": "Allows for jumping in mid-air."
         }
     },
     {
         "Instant Complete": {
-            "name": "Instant Complete",
-            "desc": "Instantly completes the level. (Do not enable in the Editor)"
+            "name": "Άμεση ολοκλήρωση",
+            "desc": "Άμεση ολοκλήρωση ενός επιπέδου. (Do not enable in the Editor)"
         }
     },
     {
         "Force Platformer Mode": {
-            "name": "Force Platformer Mode",
-            "desc": "Forces you to be in platformer mode when playing a level."
+            "name": "Aναγκαστικό Platformer Mode",
+            "desc": "Αναγκάζει platformer mode όταν παίζεται ένα επίπεδο."
         }
     },
     {
         "Change Gravity": {
-            "name": "Change Gravity",
-            "desc": "Allows you to change gravity when jumping or falling."
+            "name": "Αλλαγή βαρύτητας",
+            "desc": "Αφήνει να αλλάξεις βαρύτητα."
         }
     },
     {
         "Gravity Value": {
-            "name": "Gravity Value",
-            "desc": "The value the gravity should be set to."
+            "name": "Ποσοστό βαρύτητας",
+            "desc": "Το ποσοστό βαρύτητας"
         }
     },
 
     {
         "Icon Bypass": {
-            "name": "Icon Bypass",
-            "desc": "Unlocks all icons."
+            "name": "Ξεκλείδωμα εικονιδίων",
+            "desc": "Ξεκλειδώνει όλα τα εικονίδια."
         }
     },
     {
         "Text Length": {
-            "name": "Text Length",
-            "desc": "Allows for unlimited text length in text inputs."
+            "name": "Απειρο κείμενο",
+            "desc": "Αφήνει για άπειρο κείμενο στην εισαγωγή κειμένου."
         }
     },
     {
         "Character Filter": {
-            "name": "Character Filter",
-            "desc": "Lets you input any character in all text inputs."
+            "name": "Φίλτρο Χαρακτήρων",
+            "desc": "Αφήνει για όλους τους χαρακτήρες κειμένου στην εισαγωγή κειμένου."
         }
     },
     {
@@ -209,13 +209,13 @@
     },
     {
         "Main Levels": {
-            "name": "Main Levels",
-            "desc": "Unlocks locked demon levels."
+            "name": "Κύρια επίπεδα",
+            "desc": "Ξεκλειδώνει όλα τα κύρια επίπεδα."
         }
     },
     {
         "Guard Vault": {
-            "name": "Guard Vault",
+            "name": "Ξεκλείδωμα θησαυροφυλάκιου",
             "desc": "Unlocks the guard's vault."
         }
     },
@@ -227,20 +227,20 @@
     },
     {
         "Treasure Room": {
-            "name": "Treasure Room",
-            "desc": "Unlocks the treasure room."
+            "name": "Δωμάτιο Θησαυρών",
+            "desc": "Ξεκλειδώνει το δωμάτιο θησαυρών."
         }
     },
     {
         "Free Shop Items": {
-            "name": "Free Shop Items",
-            "desc": "Allows all shop items to be bought for 0 mana orbs."
+            "name": "Δωρεάν αντικείμενα αγωράς",
+            "desc": "Αφήνει όλα τα αντικείμενα του μαγαζιού να μπορούν να αγωραστούν για 0 mana orbs."
         }
     },
     {
         "Gatekeeper Vault": {
-            "name": "Gatekeeper Vault",
-            "desc": "Unlocks the Gatekeeper's vault."
+            "name": "Θυσαυροφυλάκιο θυρωρού",
+            "desc": "Ξεκλειδώνει το θησαυροφυλάκιο του θυρωρού."
         }
     },
     {
@@ -599,12 +599,6 @@
         "Wave Pulse Size": {
             "name": "Wave Pulse Size",
             "desc": "How big the pulse should be for the wave."
-        }
-    },
-    {
-        "Auto Safe Mode": {
-            "name": "Auto Safe Mode",
-            "desc": "Prevents any progress from being made if certain cheats are enabled."
         }
     }
 ]
